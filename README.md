@@ -1,2 +1,2 @@
-# reactwithmaterialstarter
-ReactStarterKit + Material design lite
+# reactmaterialcordovastarter
+ReactStarterKit + Material design lite + cordova
